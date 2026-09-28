@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/checkslug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Check host/slug network string helpers for config audits.",
+  "bin": {
+    "checkslug": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/checkslug.git"
+  },
+  "homepage": "https://theworker02.github.io/checkslug/",
+  "keywords": [
+    "check",
+    "slug",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
